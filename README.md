@@ -45,3 +45,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 first discovered Blender eight years ago, and she has been using it to create it ever since. After self-teaching while working at a Library for several years, she started using Blender as an Educator, creating short and long-form animations that explain complex scientific concepts for the University of Colorado. Following several years of developing that program, she transitioned to using Blender 3D to create synthetic data for Machine Learning applications. Her current focus is on education, using Blender and other tools to get underserved groups into Technology and Art-based industries. She lives in beautiful Colorado with a dog, two cats, a lizard, and her partner. When she’s not working in Blender she likes to read, hike and garden.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803230962">https://packt.link/free-ebook/9781803230962 </a> </p>
